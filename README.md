@@ -10,15 +10,30 @@ ten classes. We generated 2 four-view datasets where each view is a vector of R<
 
 Related Papers:
 ```
-Multiview Boosting by Controlling the Diversity and the Accuracy of View-specific Voters.
-Anil Goyal, Emilie Morvant, Pascal Germain and Massih-Reza Amini.
+Goyal, Anil, Emilie Morvant, Pascal Germain, and Massih-Reza Amini. 
+"Multiview Boosting by Controlling the Diversity and the Accuracy of View-specific Voters."
+Neurocomputing, 358, 2019, pp. 81-92.
+
+Link to HAL Archive Version:
+https://hal.archives-ouvertes.fr/hal-01857463v2/document
+
+Link to the ArXiv version:
 https://arxiv.org/abs/1808.05784
+
+Published Version:
+https://doi.org/10.1016/j.neucom.2019.04.072
 ```
 
 ```
-Multiview Learning of Weighted Majority Vote by Bregman Divergence Minimization.
-Anil Goyal, Emilie Morvant and Massih-Reza Amini
-Intelligent Data Analysis, 2018 (https://arxiv.org/abs/1805.10212)
+Goyal, Anil, Emilie Morvant, and Massih-Reza Amini. 
+"Multiview Learning of Weighted Majority Vote by Bregman Divergence Minimization." 
+In International Symposium on Intelligent Data Analysis, pp. 124-136. Springer, Cham, 2018.
+
+Link to the ArXiv version: 
+https://arxiv.org/abs/1805.10212
+
+Published Version:
+https://doi.org/10.1007/978-3-030-01768-2_11
 ```
 
 ## Contents
